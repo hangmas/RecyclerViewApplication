@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ListAdapterRecyclerView</string>
+    <string name="title">%s (%s)</string>
+    <string name="country">Country: %s </string>
+    <string name="director">Director: %s </string>
+    <string name="casts">Casts: %s </string>
+    <string name="plot">Plot: %s </string>
 </resources>
